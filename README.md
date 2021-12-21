@@ -1,4 +1,4 @@
-# findjobeasily
+# IPT FINAL PROJECT
 
 A new Flutter project.
 
